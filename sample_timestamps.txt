@@ -1,0 +1,1 @@
+2024-09-06 16:50:48 ALARM: Patient is not lying on the bed. Please check on the patient immediately.
